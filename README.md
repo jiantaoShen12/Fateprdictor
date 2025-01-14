@@ -37,11 +37,11 @@ Fateprdictor includes mainly pesudotime analysis(time) and cell bifurcation pred
 - **absl-py**=2.1.0
 
 ### pesudotime:
-- ** pytorch 1.13.1
-- ** scipy 1.10.1
-- ** TorchDiffEqPack
-- ** torchdiffeq 0.2.3
+- **pytorch**= 1.13.1
+- **scipy**= 1.10.1
+- **TorchDiffEqPack**
+- **torchdiffeq**= 0.2.3
 
-- ** numpy 1.23.5
-- ** seaborn 0.12.2
-- ** matplotlib 3.5.3
+- **numpy**= 1.23.5
+- **seaborn**= 0.12.2
+- **matplotlib**= 3.5.3
