@@ -3,7 +3,6 @@ Fateprdictor includes mainly pesudotime analysis(time) and cell bifurcation pred
 
 # Installation
 ### predict:
-### Python
 - **python**=3.8.19
 - **pip**=24.0
 - **setuptools**=71.0.4
