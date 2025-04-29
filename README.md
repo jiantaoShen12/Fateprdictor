@@ -5,7 +5,8 @@
   Besides, FatePredictor exhibits outstanding performance across a variety of biological datasets, accurately pinpointing critical transition and highlighting its applicability to broader tissue-level contexts. Hence, FatePredictor introduces an innovative framework for predicting cell fate decision-making, distinguished by its efficiency, accuracy, and robustness, with strong potential for real-world applications.# Fateprdictor-code
 
 ![1re](https://github.com/user-attachments/assets/07ec2e08-9232-4926-8b61-4b13e6dbb8b0)
-
+### Figure 1. Schematic illustration of the FatePredictor. 
+(A) a dynamic unbalanced optimal transport method is applied to reconstruct dynamic cell trajectories using single-cell data. (B) FatePredictor employs an ensemble deep learning model to learn the dynamics underlying cell fate bifurcations, allowing for the distinction of various bifurcation types in dynamic cellular processes. (C) FatePredictor provides accurate bifurcation predictions for the cell system's decision-making process, outperforms other predictive methods, and identifies key genes and pathways crucial for cell fate determination.
 # Installation
 Fateprdictor includes mainly pesudotime analysis(time) and cell bifurcation prediction(predict). 
 ### predict:
